@@ -3,4 +3,6 @@
 This is KC's webpage.
 
 Hooray!
-[Another page?](testing.html)
+
+\n[Another page?](testing.html)
+\n[A markdown page?](testmark.md)
