@@ -4,5 +4,6 @@ This is KC's webpage!
 
 Hooray!
 
-\n[Another page?](testing.html)
-\n[A markdown page?](testmark.md)
+[Another page?](testing.html)
+
+[A markdown page?](testmark.md)
