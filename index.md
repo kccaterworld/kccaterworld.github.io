@@ -6,4 +6,4 @@ Hooray!
 
 [Another page?](testing.html)
 
-[A markdown page?](testmark.md)
+[A markdown page?](testmark)
