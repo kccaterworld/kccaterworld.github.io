@@ -1,6 +1,6 @@
 # caterworld.github.io
 
-This is KC's webpage.
+This is KC's webpage!
 
 Hooray!
 
