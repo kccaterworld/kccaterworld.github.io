@@ -2,4 +2,4 @@
 
 Kinda just here having fun.
 
-Linkie: [kccaterworld.github.io](kccaterworld.github.io)
+Linkie: [kccaterworld.github.io](www.kccaterworld.github.io)
