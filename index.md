@@ -1,9 +1,16 @@
+---
+title: Kemal Cater's Website
+description: My website!
+---
+
 # caterworld.github.io
 
-This is Kemal's website!
+This is Kemal's personal site!
 
 Hooray!
 
-It's mostly just a place for me to mess around with 
-
 [A markdown page?](testmark)
+
+[404](404.html)
+
+[404 Test](doesntexist)
