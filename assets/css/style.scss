@@ -2,3 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+
+.btn-github {
+    position: absolute;
+    right: 100px;
+    top: 50px;
+}
