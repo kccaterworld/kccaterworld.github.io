@@ -12,5 +12,5 @@ New York based student, musician, and programmer, always striving to learn more.
 
 (Some links may not exist yet)
 
-- [About Me](/about/)
-- [Blog Home](/blog/)
+- [About Me](/about)
+- [Blog Home](/blog)
