@@ -1,7 +1,6 @@
 ---
 title: Kemal Cater's Website
 description: My website!
-layout: default
 permalink: /
 ---
 
