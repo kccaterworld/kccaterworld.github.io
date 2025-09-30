@@ -5,7 +5,6 @@ layout: default
 permalink: /
 ---
 
-# caterworld.github.io
+# Kemal Cater
 
-Hi there, I'm Kemal Cater, a student, musician, and programmer.
-
+New York based student, musician, and programmer, always striving to learn more.
