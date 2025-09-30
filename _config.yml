@@ -5,3 +5,10 @@ plugins:
 theme: jekyll-theme-hacker
 title: "Kemal's Website"
 description: "My Website"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.PNG'
+include: ["_pages"]
+
+collections:
+  blogpages:
+    output: true
