@@ -12,17 +12,19 @@
 
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+
       <div class="container pr-0">
         <a class="navbar-brand" href="{{ site.baseurl }}/">
           <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
         </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarMediumish" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarMediumish">
-            {% include navigation.html %}
+          <!-- Begin Menu -->
+          {% include navigation.html %}
+          <!-- End Menu -->
         </div>
-
       </div>
     </nav>
     <header>
@@ -47,5 +49,8 @@
         {{ content }}
       </section>
     </div>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" crossorigin="anonymous"></script>  
   </body>
 </html>
