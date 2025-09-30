@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: All Blog Posts
+  link: /bloghome
+- name: Contact
+  link: /contact
+- name: About Me
+  link: /about
