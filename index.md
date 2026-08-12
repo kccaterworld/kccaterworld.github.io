@@ -10,7 +10,9 @@ New York based student, musician, and programmer, always striving to learn more.
 
 ## Links
 
-(Some links may not exist yet)
-
 - [About Me](/about)
-- [Blog Home](/blog)
+- [Projects](/projects)
+- Socials
+    - [GitHub](https://github.com/kccaterworld)
+    - [LinkedIn](https://www.linkedin.com/in/kccaterworld)
+    - [Email](mailto:kccaterworld@caterworld.xyz)
