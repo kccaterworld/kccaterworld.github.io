@@ -4,7 +4,7 @@ plugins:
 
 theme: jekyll-theme-hacker
 title: "Kemal's Website"
-description: "My Website"
+description: "My Portfolio"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.PNG'
 include: ["_pages"]
